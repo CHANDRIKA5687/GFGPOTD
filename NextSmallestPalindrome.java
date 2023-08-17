@@ -1,3 +1,17 @@
+// Next Smallest Palindrome
+// Given a number, in the form of an array Num[] of size N containing digits from 1 to 9(inclusive). The task is to find the next smallest palindrome strictly larger than the given number.
+
+// Example 1:
+
+// Input:
+// N = 11
+// Num[] = {9, 4, 1, 8, 7, 9, 7, 8, 3, 2, 2}
+// Output: 9 4 1 8 8 0 8 8 1 4 9
+// Explanation: Next smallest palindrome is
+// 94188088149.
+
+
+
 package cal.acc;
 
 //{ Driver Code Starts
